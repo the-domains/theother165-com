@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[TheOther165.com]]></title>
         <description><![CDATA[TheOther165.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theother165-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 20:56:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 21:01:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theother165-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coaching Matters - The Grateful Plate]]></title>
+            <description><![CDATA[<article><h1>Coaching Matters - The Grateful Plate</h1><p>Are You Frustrated With Your Fat Loss Because You Feel Like You Know What To Do, But Just Can't Seem To Get Out Of Your Own Way? We help you make your eating enjoyable and your fat loss faster by helping you turn knowing into doing. Easily and Consistently. Frustrated?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95091aab19d1e16991119c5fce42d5a1fc35a9b6.jpg"></article>]]></description>
+            <link>http://thegratefulplate.org/coaching-matters/</link>
+            <guid isPermaLink="false">ee5607e7-0b0c-4c35-8fb6-9d51da7617ed</guid>
+            <pubDate>Sat, 05 Mar 2016 21:01:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Get Fit NH Concord and Epsom Gym Personal Training]]></title>
             <description><![CDATA[<article><h1>Get Fit NH Concord and Epsom Gym Personal Training</h1><p>We have developed a system at GFNH that cuts through the confusion and debate about which method of exercise provides the best results. We begin your personalized training program with a thorough evaluation using our Functional Movement Screen. To get you where you want to go, we need to see where you are now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea8cd731a4e1e79bd1dc2802d8d8222510b00cfa.jpg"></article>]]></description>
